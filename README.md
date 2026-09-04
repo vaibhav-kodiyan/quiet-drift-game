@@ -8,4 +8,4 @@ Pilot a spaceship through an endless asteroid field. The game is designed for ta
 
 Your current score and level stay visible during play. After a flight ends, enter a pilot username and select **Save score**. The result is stored directly through the shared score service—no GitHub issue or confirmation page is required.
 
-Each run can be submitted once and is checked for basic score plausibility. The shared leaderboard returns the top 100 flights. Personal bests are also stored locally in the browser.
+Each run can be submitted once and is checked for basic score plausibility. The shared leaderboard keeps only the highest score for each username, matching usernames case-insensitively. Personal bests are also stored locally in the browser.
