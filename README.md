@@ -1,9 +1,11 @@
-# Quiet Drift
+# Quiet Drift — Asteroid Run
 
-A quiet, touch-friendly reflex game for spare minutes. Drag the blue tile or use the arrow controls to avoid falling red notes.
+Pilot a spaceship through an endless asteroid field. The game is designed for tablets, phones, and desktop browsers, with drag, touch-pad, and keyboard controls.
 
 ## Play
 
-[Open Quiet Drift](https://vaibhav-kodiyan.github.io/quiet-drift-game/)
+[Launch Quiet Drift](https://vaibhav-kodiyan.github.io/quiet-drift-game/)
 
-The game works on tablets, phones, and desktop browsers. It is muted by default and stores the best score locally in the browser.
+Your current score and level stay visible during play. After a flight ends, enter a pilot username and select **Save score**. GitHub opens a pre-filled score submission for confirmation; after it is submitted, an automated workflow validates the entry and records it in [scores.json](scores.json).
+
+The shared leaderboard keeps the top 100 submitted flights. Personal bests are also stored locally in the browser.
